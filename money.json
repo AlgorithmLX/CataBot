@@ -24,5 +24,9 @@
         "drug_min": 50,
         "drug_max": 80,
         "alcohol_min": 200,
-        "alcohol_max": 500
+        "alcohol_max": 500,
+        "medical_kit_min": 350,
+        "medical_kit_max": 1300,
+        "bandage_min": 40,
+        "bandage_max": 80
 }
