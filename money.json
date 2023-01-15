@@ -1,6 +1,6 @@
 {
         "7_62_min": 17,
-        "7_62_max": 29,
+        "7_62_max": 32,
         "5_56_min": 5,
         "5_56_max": 15,
         "carbine_rifle_min": 960,
@@ -13,7 +13,7 @@
         "special_rifle_max": 2100,
         "compact_rifle_min": 1000,
         "compact_rifle_max": 2100,
-        "armor_min": 800,
+        "armor_min": 700,
         "armor_max": 1600,
         "small_caliber_min": 900,
         "small_caliber_max": 2600,
