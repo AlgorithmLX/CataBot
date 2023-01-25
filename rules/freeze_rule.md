@@ -12,5 +12,5 @@
  + 3.1 Выполнять контракты
  + 3.2 Принимать людей
 4. Во время RP-Заморозки, лидер все-равно обязуется выполнять условия.
- + Примечание: пункт 4 и пункт 5 [Правил лидера организации](https://github.com/AlgorithmLX/MoneyDB/blob/main/rules/lider_rules.md)
+ + Примечание: п.2.2 и п.2.3 [Правил лидера организации](https://github.com/AlgorithmLX/MoneyDB/blob/main/rules/lider_rules.md#2-%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%BB%D0%B8%D0%B4%D0%B5%D1%80%D0%B0)
  + Наказание: Снятие лидера с поста
